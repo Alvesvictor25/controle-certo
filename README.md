@@ -5,6 +5,7 @@ Trabalho de Conclusão do Curso de Graduação em Análise e Desenvolvimento de 
 
 _____________________________________________________
 Política de Privacidade do Controle Certo
+
 Introdução
 
 O Controle Certo ("Controle Certo", "nós", "nosso" ou "nos") leva a sério a privacidade de seus usuários ("Usuário", "você" ou "seu"). Esta Política de Privacidade ("Política") descreve como coletamos, usamos e divulgamos suas informações pessoais quando você utiliza nosso site, aplicativo ou serviços ("Plataforma").
@@ -24,11 +25,11 @@ Cookies e outras tecnologias de rastreamento: Utilizamos cookies e outras tecnol
 
 Utilizamos suas informações pessoais para:
 
-Fornecer e melhorar nossos serviços;
-Enviar comunicações a você, como newsletters, anúncios e atualizações;
-Responder às suas perguntas e solicitações;
-Prevenir fraudes e abusos;
-Cumprir nossas obrigações legais.
+- Fornecer e melhorar nossos serviços;
+- Enviar comunicações a você, como newsletters, anúncios e atualizações;
+- Responder às suas perguntas e solicitações;
+- Prevenir fraudes e abusos;
+- Cumprir nossas obrigações legais.
 
 3. Compartilhamento de Informações Pessoais
 
