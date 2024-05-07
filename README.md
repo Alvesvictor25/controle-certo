@@ -77,4 +77,56 @@ Se você tiver alguma dúvida sobre esta Política ou sobre suas informações p
 Data da Última Atualização: 02 de maio de 2024
 ______________________________________________________________________
 
+Termos de Uso do Controle Certo
 
+Introdução
+
+O Controle Certo ("Controle Certo", "nós", "nosso" ou "nos") fornece uma plataforma online ("Plataforma") que permite que você gerencie suas finanças ("Serviços"). Estes Termos de Uso ("Termos") definem os termos e condições que regem seu uso da Plataforma e dos Serviços.
+
+1. Aceitação dos Termos
+Ao criar uma conta ou utilizar a Plataforma ou os Serviços, você concorda com estes Termos. Se você não concordar com estes Termos, você não poderá usar a Plataforma ou os Serviços.
+
+2. Descrição dos Serviços
+A Plataforma e os Serviços permitem que você:
+•	Crie um orçamento e acompanhe suas despesas;
+•	Gere relatórios sobre seus gastos;
+•	Defina metas de economia;
+•	Conecte suas contas bancárias e cartões de crédito;
+•	Receba notificações sobre seus gastos;
+•	Acesse a Plataforma e os Serviços a partir de qualquer dispositivo com acesso à internet.
+
+3. Sua Conta
+Para utilizar a Plataforma e os Serviços, você deve criar uma conta ("Conta"). Você é responsável por:
+•	Manter a confidencialidade das informações de sua Conta;
+•	Fornecer informações precisas e atualizadas sobre você;
+•	Notificar-nos imediatamente sobre qualquer atividade não autorizada em sua Conta.
+
+4. Seu Uso da Plataforma e dos Serviços
+Você concorda em usar a Plataforma e os Serviços apenas para fins legais e éticos. Você não deve:
+•	Usar a Plataforma ou os Serviços para qualquer atividade ilegal ou prejudicial;
+•	Criar ou distribuir conteúdo malicioso ou prejudicial;
+•	Acessar ou usar a Conta de outra pessoa sem autorização;
+•	Tentar interromper ou desabilitar o funcionamento da Plataforma ou dos Serviços.
+
+5. Propriedade Intelectual
+A Plataforma e os Serviços, incluindo todo o conteúdo, software, designs e outros materiais, são de propriedade do Controle Certo ou de seus licenciados. Você não tem nenhum direito de propriedade sobre a Plataforma ou os Serviços.
+
+6. Limitação de Responsabilidade
+O Controle Certo não se responsabiliza por quaisquer danos diretos, indiretos, incidentais, especiais ou consequentes decorrentes ou relacionados ao seu uso da Plataforma ou dos Serviços.
+
+7. Indemnização
+Você concorda em indenizar, defender e isentar de responsabilidade o Controle Certo, seus diretores, funcionários, agentes e representantes de quaisquer perdas, danos, responsabilidades, custos e despesas (incluindo honorários advocatícios) decorrentes ou relacionados à sua violação destes Termos.
+
+8. Resolução de Disputas
+Estes Termos serão regidos e interpretados de acordo com as leis da República Federativa do Brasil. Qualquer disputa entre você e o Controle Certo será resolvida exclusivamente pelos tribunais da Comarca de Florianópolis, SC.
+
+9. Alterações nestes Termos
+O Controle Certo pode alterar estes Termos a qualquer momento. Se fizermos alterações, publicaremos a versão revisada em nossa Plataforma e informaremos por e-mail.
+
+10. Término
+O Controle Certo pode, a seu exclusivo critério, suspender ou encerrar sua Conta e seu acesso à Plataforma e aos Serviços a qualquer momento, sem aviso prévio.
+
+11. Disposições Gerais
+Estes Termos constituem o acordo total entre você e o Controle Certo em relação ao uso da Plataforma e dos Serviços. Se qualquer disposição destes Termos for considerada inválida ou inexequível, tal disposição será considerada nula e sem efeito, mas as demais disposições permanecerão em vigor.
+
+Data da Última Atualização: 06 de maio de 2024
