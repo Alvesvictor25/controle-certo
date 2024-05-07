@@ -88,25 +88,24 @@ Ao criar uma conta ou utilizar a Plataforma ou os Serviços, você concorda com 
 
 2. Descrição dos Serviços
 A Plataforma e os Serviços permitem que você:
-•	Crie um orçamento e acompanhe suas despesas;
-•	Gere relatórios sobre seus gastos;
-•	Defina metas de economia;
-•	Conecte suas contas bancárias e cartões de crédito;
-•	Receba notificações sobre seus gastos;
-•	Acesse a Plataforma e os Serviços a partir de qualquer dispositivo com acesso à internet.
+-	Crie um orçamento e acompanhe suas despesas;
+-	Gere relatórios sobre seus gastos;
+-	Defina metas de gastos;
+-	Receba notificações sobre seus gastos;
+-	Acesse a Plataforma e os Serviços a partir de qualquer dispositivo com acesso à internet que tenha o navegador Google Chrome. Em outros navegadores, o sistema poderá não funcionar corretamente.
 
 3. Sua Conta
 Para utilizar a Plataforma e os Serviços, você deve criar uma conta ("Conta"). Você é responsável por:
-•	Manter a confidencialidade das informações de sua Conta;
-•	Fornecer informações precisas e atualizadas sobre você;
-•	Notificar-nos imediatamente sobre qualquer atividade não autorizada em sua Conta.
+-	Manter a confidencialidade das informações de sua Conta;
+-	Fornecer informações precisas e atualizadas sobre você;
+-	Notificar-nos imediatamente sobre qualquer atividade não autorizada em sua Conta.
 
 4. Seu Uso da Plataforma e dos Serviços
 Você concorda em usar a Plataforma e os Serviços apenas para fins legais e éticos. Você não deve:
-•	Usar a Plataforma ou os Serviços para qualquer atividade ilegal ou prejudicial;
-•	Criar ou distribuir conteúdo malicioso ou prejudicial;
-•	Acessar ou usar a Conta de outra pessoa sem autorização;
-•	Tentar interromper ou desabilitar o funcionamento da Plataforma ou dos Serviços.
+-	Usar a Plataforma ou os Serviços para qualquer atividade ilegal ou prejudicial;
+-	Criar ou distribuir conteúdo malicioso ou prejudicial;
+-	Acessar ou usar a Conta de outra pessoa sem autorização;
+-	Tentar interromper ou desabilitar o funcionamento da Plataforma ou dos Serviços.
 
 5. Propriedade Intelectual
 A Plataforma e os Serviços, incluindo todo o conteúdo, software, designs e outros materiais, são de propriedade do Controle Certo ou de seus licenciados. Você não tem nenhum direito de propriedade sobre a Plataforma ou os Serviços.
@@ -114,7 +113,7 @@ A Plataforma e os Serviços, incluindo todo o conteúdo, software, designs e out
 6. Limitação de Responsabilidade
 O Controle Certo não se responsabiliza por quaisquer danos diretos, indiretos, incidentais, especiais ou consequentes decorrentes ou relacionados ao seu uso da Plataforma ou dos Serviços.
 
-7. Indemnização
+7. Indenização
 Você concorda em indenizar, defender e isentar de responsabilidade o Controle Certo, seus diretores, funcionários, agentes e representantes de quaisquer perdas, danos, responsabilidades, custos e despesas (incluindo honorários advocatícios) decorrentes ou relacionados à sua violação destes Termos.
 
 8. Resolução de Disputas
